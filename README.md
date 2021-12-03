@@ -1,16 +1,10 @@
-# Basic Sample Hardhat Project
+# Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Hardhat Project for Minting NFTs on the Rinkeby Network!
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
 # NFTHardHatProj
+
+Custom Startup NFTs can be minted easily.
+This repository supports the backend to - https://nft-starter-project.mehulrastogi.repl.co/
+
+Thanks :)
